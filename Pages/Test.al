@@ -22,11 +22,6 @@ page 50100 "Test"
                     ApplicationArea = All;
 
                 }
-                field("Customer Name"; Rec."Bill-to Customer No.")
-                {
-                    ApplicationArea = All;
-
-                }
             }
         }
     }
