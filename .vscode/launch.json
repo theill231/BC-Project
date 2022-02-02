@@ -15,6 +15,7 @@
             "enableSqlInformationDebugger": true,
             "tenant": "default",
             "schemaUpdateMode": "Synchronize"
+            
         }
     ]
 }
